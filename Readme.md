@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/PieBindingToObservableCollection/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/PieBindingToObservableCollection/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/PieBindingToObservableCollection/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/PieBindingToObservableCollection/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/PieBindingToObservableCollection/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/PieBindingToObservableCollection/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to bind a chart to an observable collection

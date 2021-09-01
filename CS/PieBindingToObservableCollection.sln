@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieBindingToObservableCollection", "PieBindingToObservableCollection\PieBindingToObservableCollection.csproj", "{8CB2FE16-0B0B-41D0-B63F-3E107338A233}"
 EndProject
 Global
